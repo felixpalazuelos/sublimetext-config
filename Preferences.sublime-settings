@@ -1,0 +1,30 @@
+{
+	"caret_style": "wide",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"match_tags": true,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": true,
+	"scroll_speed": 0,
+	"theme": "Sodarized Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false,
+	"wrap_width": 80
+}
