@@ -5,7 +5,7 @@
 	"font_face": "Consolas",
 	"font_options":
 	[
-		"subpixel_antialias"
+		"directwrite"
 	],
 	"font_size": 11,
 	"highlight_line": true,
@@ -25,6 +25,6 @@
 	"scroll_speed": 0,
 	"theme": "Sodarized Light 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": false,
-	"wrap_width": 80
+	"word_wrap": true,
+	"wrap_width": 120
 }
