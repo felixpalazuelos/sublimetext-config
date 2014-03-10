@@ -1,7 +1,15 @@
 {
-	"caret_style": "wide",
+	"caret_extra_width": 1,
+	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".DS_Store",
+		"__pycache__"
+	],
 	"font_face": "Consolas",
 	"font_options":
 	[
@@ -12,19 +20,23 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"GitGutter"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
 	"match_brackets_braces": true,
 	"match_brackets_content": true,
 	"match_brackets_square": true,
 	"match_tags": true,
 	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80
+	],
 	"scroll_past_end": true,
 	"scroll_speed": 0,
-	"theme": "Sodarized Light 3.sublime-theme",
+	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
-	"wrap_width": 120
+	"wrap_width": 80
 }
