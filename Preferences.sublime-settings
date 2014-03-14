@@ -7,6 +7,7 @@
 	[
 		".svn",
 		".git",
+		".cache",
 		".DS_Store",
 		"__pycache__"
 	],
@@ -36,6 +37,7 @@
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
+	"default_line_ending": "unix",
 	"word_wrap": true,
 	"wrap_width": 80
 }
