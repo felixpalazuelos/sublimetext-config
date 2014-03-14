@@ -20,8 +20,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"GitGutter"
+		"Vintage"
 	],
 	"match_brackets_braces": true,
 	"match_brackets_content": true,

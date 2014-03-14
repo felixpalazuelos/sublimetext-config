@@ -4,11 +4,9 @@
 		"AdvancedNewFile",
 		"Alignment",
 		"BracketHighlighter",
-		"Gist",
-		"Git",
-		"GitGutter",
 		"Markdown Preview",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"Theme - Soda"
 	]
 }
