@@ -4,11 +4,13 @@
 		"AdvancedNewFile",
 		"Alignment",
 		"BracketHighlighter",
-		"Git",
 		"Markdown Preview",
+		"MarkdownEditing",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"Theme - Soda"
+		"Table Editor",
+		"Theme - Soda",
+		"WordCount"
 	]
 }

@@ -1,0 +1,5 @@
+{
+    "parser": "default",
+    "css": "False",
+    "enabled_parsers": ["markdown"],
+}

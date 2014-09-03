@@ -2,7 +2,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/Monokai Soda (SL).tmTheme",
+	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
@@ -16,14 +16,19 @@
 	"font_face": "Source Code Pro",
 	"font_options":
 	[
-		"directwrite"
+		"subpixel_antialas",
+		"no_round"
 	],
 	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Markdown",
+		"SublimeLinter",
+		"Vintage",
+		"SideBarEnhancements",
+		"BracketHighlighter"
 	],
 	"match_brackets_braces": true,
 	"match_brackets_content": true,
@@ -32,13 +37,13 @@
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
-		80
+		100
 	],
 	"scroll_past_end": true,
 	"scroll_speed": 0,
-	"theme": "Soda Dark.sublime-theme",
+	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
-	"wrap_width": 80
+	"wrap_width": 100
 }
